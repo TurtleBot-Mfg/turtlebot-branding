@@ -1,0 +1,5 @@
+[com.canonical.unity-greeter]
+play-ready-sound = false
+background = "/usr/share/backgrounds/TurtleBot_Init_by_IHE.jpg"
+background-color = "#0B1709"
+draw-grid = false

@@ -1,0 +1,15 @@
+Source: turtlebot-branding
+Section: graphics
+Priority: optional
+Maintainer: I Heart Engineering <code@iheartengineering.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: turtlebot-branding
+Architecture: any
+Provides: turtlebot-branding
+Conflicts: 
+Replaces:
+Depends: ${misc:Depends}, turtlebot-wallpapers
+Description: TurtleBot Branding 
+ This package replace the Ubuntu branding with TurtleBot branding

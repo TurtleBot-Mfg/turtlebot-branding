@@ -1,0 +1,9 @@
+#!/bin/sh
+if [ "$1" = install ]; then
+    dpkg-divert --package turtlebot-wallpapers --add --rename \
+        --divert /lib/plymouth/themes/default.grub.original /lib/plymouth/themes/default.grub
+    dpkg-divert --package turtlebot-wallpapers --add --rename \
+        --divert /usr/share/themes/Ambiance/gtk-2.0/apps/gnome-terminal.css.original /usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css
+    dpkg-divert --package turtlebot-wallpapers --add --rename \
+        --divert /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script.original /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
+fi

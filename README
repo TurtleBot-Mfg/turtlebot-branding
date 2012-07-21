@@ -1,0 +1,10 @@
+turtlebot-branding
+
+This package provides TurtleBot branding.
+It replaces the following
+
+ * default user desktop background
+ * Greeter Login background
+ * Installer Background
+ * terminal color scheme
+

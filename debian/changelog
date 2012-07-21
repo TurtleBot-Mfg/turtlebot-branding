@@ -1,0 +1,5 @@
+turtlebot-branding (0.0.1) UNRELEASED; urgency=low
+
+  * new repo for git-dch, seperating turtlebot-wallpaper from turtlebot-branding overrides
+
+ -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 01:29:21 -0400
