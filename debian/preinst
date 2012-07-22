@@ -7,3 +7,4 @@ if [ "$1" = install ]; then
     dpkg-divert --package turtlebot-branding --add --rename \
         --divert /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script.original /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
 fi
+#DEBHELPER#

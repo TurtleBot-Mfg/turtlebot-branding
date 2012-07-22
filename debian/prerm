@@ -8,3 +8,4 @@ if [ "$1" = remove ]; then
     dpkg-divert --package turtlebot-branding --remove --rename \
         --divert /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script.original /lib/plymouth/themes/ubuntu-logo/ubuntu-logo.script
 fi
+#DEBHELPER#
