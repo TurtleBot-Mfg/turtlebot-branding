@@ -1,3 +1,16 @@
+turtlebot-branding (0.0.2) precise; urgency=low
+
+  * Fixed divert regression from renaming package
+  * Fixed package to pass lintian
+
+ -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 22:20:40 -0400
+
+turtlebot-branding (0.0.1) precise; urgency=low
+
+  * UNRELEASED
+
+ -- I Heart Engineering <code@iheartengineering.com>  Sat, 21 Jul 2012 22:19:51 -0400
+
 turtlebot-branding (0.0.1~1.gbp59fd14) UNRELEASED; urgency=low
 
   ** SNAPSHOT build @59fd14d2e25b8b2bb6c4378ef197c9617b4cb04c **
