@@ -1,4 +1,4 @@
-turtlebot-branding (0.0.6) unstable; urgency=low
+turtlebot-branding (0.0.7) unstable; urgency=low
 
   * Gnome Terminal defaults to Solarized dark
   * Rebuilding package for the future
