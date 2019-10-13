@@ -13,6 +13,6 @@ Architecture: all
 Provides: turtlebot-branding
 Conflicts:
 Replaces:
-Depends: ${misc:Depends}, turtlebot-wallpapers, libglib2.0-bin
+Depends: ${misc:Depends}, turtlebot-wallpapers, libglib2.0-bin, fonts-hack-ttf
 Description: TurtleBot Branding 
  This package replace the Ubuntu branding with TurtleBot branding
