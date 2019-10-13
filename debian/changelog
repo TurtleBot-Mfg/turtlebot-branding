@@ -1,9 +1,9 @@
-turtlebot-branding (0.0.5) unstable; urgency=low
+turtlebot-branding (0.0.6) unstable; urgency=low
 
   * Gnome Terminal defaults to Solarized dark
   * Rebuilding package for the future
 
- -- Human x Robot <code@hxr.io>  Sun, 13 Oct 2019 10:01:10 -0400
+ -- Human x Robot <code@hxr.io>  Sun, 13 Oct 2019 12:42:58 -0400
 
 turtlebot-branding (0.0.2) precise; urgency=low
 
