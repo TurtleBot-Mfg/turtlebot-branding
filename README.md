@@ -8,3 +8,10 @@ It replaces the following
  * Greeter Login background
  * Installer Background
  * terminal color scheme
+
+## PPA
+[Stable](https://code.launchpad.net/~hxr-io/+archive/ubuntu/turtlebot) 
+`sudo add-apt-repository ppa:hxr-io/turtlebot`
+
+[Testing](https://code.launchpad.net/~hxr-io/+archive/ubuntu/turtlebot-testing) 
+`sudo add-apt-repository ppa:hxr-io/turtlebot-testing`
