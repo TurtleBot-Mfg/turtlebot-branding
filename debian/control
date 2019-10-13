@@ -2,7 +2,6 @@ Source: turtlebot-branding
 Section: graphics
 Priority: optional
 Maintainer: Human x Robot <code@hxr.io>
-Maintainer: I Heart Engineering <code@iheartengineering.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 4.1.4
 Homepage: https://github.com/TurtleBot-Mfg/turtlebot-branding
