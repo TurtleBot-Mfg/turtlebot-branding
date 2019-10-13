@@ -1,4 +1,4 @@
-turtlebot-branding
+# TurtleBot Branding
 
 This package provides TurtleBot branding.
 It replaces the following
@@ -7,4 +7,3 @@ It replaces the following
  * Greeter Login background
  * Installer Background
  * terminal color scheme
-

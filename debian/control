@@ -1,15 +1,19 @@
 Source: turtlebot-branding
 Section: graphics
 Priority: optional
+Maintainer: Human x Robot <code@hxr.io>
 Maintainer: I Heart Engineering <code@iheartengineering.com>
-Build-Depends: debhelper (>= 5), cdbs
-Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.4
+Homepage: https://github.com/TurtleBot-Mfg/turtlebot-branding
+Vcs-Git: https://github.com/TurtleBot-Mfg/turtlebot-branding
+Vcs-Browser: https://github.com/TurtleBot-Mfg/turtlebot-branding
 
 Package: turtlebot-branding
-Architecture: any
+Architecture: all
 Provides: turtlebot-branding
-Conflicts: 
+Conflicts:
 Replaces:
-Depends: ${misc:Depends}, turtlebot-wallpapers
+Depends: ${misc:Depends}, turtlebot-wallpapers, libglib2.0-bin
 Description: TurtleBot Branding 
  This package replace the Ubuntu branding with TurtleBot branding
