@@ -1,3 +1,9 @@
+turtlebot-branding (0.0.9) unstable; urgency=low
+
+  * Fixed Gnome Terminal Solarized dark colors
+
+ -- Human x Robot <code@hxr.io>  Thu, 31 Oct 2019 21:49:14 -0400
+
 turtlebot-branding (0.0.8) unstable; urgency=low
 
   * Gnome Terminal defaults to Solarized dark
